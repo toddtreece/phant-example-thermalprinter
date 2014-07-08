@@ -1,0 +1,24 @@
+{
+  "name": "phant-example-thermalprinter",
+  "version": "0.0.1",
+  "description": "thermal printer example for phant",
+  "main": "index.js",
+  "dependencies": {
+    "phant": "~6.0.2",
+    "phant-keychain-hex": "~0.2.1",
+    "phant-meta-nedb": "~3.0.0",
+    "phant-output-thermalprinter": "~1.0.1"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "phant",
+    "thermal",
+    "printer"
+  ],
+  "author": {
+    "name": "Todd Treece",
+    "email": "todd@uniontownlabs.org",
+    "url": "http://uniontownlabs.org"
+  },
+  "license": "GPL-3.0"
+}
