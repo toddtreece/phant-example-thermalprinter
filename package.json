@@ -1,7 +1,7 @@
 {
   "name": "phant-example-thermalprinter",
   "version": "0.1.0",
-  "description": "thermal printer example for phant",
+  "description": "phant server config example that demonstrates how to use a thermal printer as output",
   "main": "index.js",
   "dependencies": {
     "phant": "~6.0.2",
