@@ -1,6 +1,6 @@
 {
   "name": "phant-example-thermalprinter",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "thermal printer example for phant",
   "main": "index.js",
   "dependencies": {
